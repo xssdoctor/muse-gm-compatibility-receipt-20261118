@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "name": "graphicsmagick-compatibility-receipt",
+  "displayName": "GraphicsMagick Compatibility Receipt",
+  "description": "Render a valid sample and record the release builder runtime",
+  "install": {
+    "command": "make install",
+    "networkRequired": false
+  }
+}
